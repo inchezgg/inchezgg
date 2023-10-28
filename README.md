@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Disnake](https://img.shields.io/badge/-DISNAKE-090909?style=for-the-badge&logo=discord)](https://github.com/DisnakeDev/disnake)
-[![Lavalink](https://img.shields.io/badge/-Lavalink%20-090909?style=for-the-badge&logo=lavalink&logoColor=ff0000)](https://github.com/PythonistaGuild/Wavelink)
+[![Wavelink](https://img.shields.io/badge/-python%20-090909?style=for-the-badge&logo=python&logoColor=ff0000)](https://github.com/PythonistaGuild/Wavelink)
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=6CBEEA)
 ![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=gta&logoColor=6CBEEA)
