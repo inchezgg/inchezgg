@@ -10,6 +10,7 @@
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=6CBEEA)
 ![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=gta&logoColor=6CBEEA)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=6CBEEA)](https://www.postgresql.org/)
 
 ### Tools
 [![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=6CBEEA)](https://www.jetbrains.com/ru-ru/pycharm/)
