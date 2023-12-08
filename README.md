@@ -14,6 +14,7 @@
 
 ### Tools
 [![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=6CBEEA)](https://www.jetbrains.com/ru-ru/pycharm/)
+[![NVim](https://img.shields.io/badge/-NVIM-090909?style=for-the-badge&logo=neovim)](https://neovim.io)
 ![Pawno](https://img.shields.io/badge/-Pawno-090909?style=for-the-badge&logo=IDE&logoColor=e5fe20)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-090909?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
