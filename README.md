@@ -8,8 +8,7 @@
 [![Disnake](https://img.shields.io/badge/-DISNAKE-090909?style=for-the-badge&logo=discord)](https://github.com/DisnakeDev/disnake)
 [![Wavelink](https://img.shields.io/badge/-WAVELINK%20-090909?style=for-the-badge&logo=python&logoColor=ff0000)](https://github.com/PythonistaGuild/Wavelink)
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
-
-![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=gta&logoColor=6CBEEA)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=008000)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=6CBEEA)](https://www.postgresql.org/)
 
 ### Tools
