@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm David
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Ukraine <img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-icon.svg"</img></h3>
+<h3 align="center">Computer science teenager from Ukraine <img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-icon.svg"</img></h3>
 
 ### Languages and Technologies:
 
