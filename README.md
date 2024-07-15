@@ -11,14 +11,14 @@
 [![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=6CBEEA)](https://www.postgresql.org/)
 
 ### Tools
-[![VScode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)](https://www.jetbrains.com/ru-ru/pycharm/)
+[![VS code](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)](https://code.visualstudio.com/)
 [![NVim](https://img.shields.io/badge/-NVIM-090909?style=for-the-badge&logo=neovim)](https://neovim.io)
 ![ARCH](https://img.shields.io/badge/-ARCH-090909?style=for-the-badge&logo=archlinux)
 [![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/)
 
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/moylub)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/inchezgg)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/466550793575858176)
 
 
