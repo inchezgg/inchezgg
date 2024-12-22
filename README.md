@@ -22,15 +22,18 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/466550793575858176)
 
 
-<p align="center">
-<img width="600" src="github-snake.svg" alt="snake"/>
-</p>
-<details>
-  <summary>:zap: <b>GitHub stats</b></summary>
+
+
+
+
+
+
+  
   <p>
    <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Davidshevnya&show_icons=true&theme=dark" />
    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidshevnya&layout=compact&theme=dark" />  
+    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://streak-stats.demolab.com/?user=davidshevnya&theme=dark" />
    <br>
   </p>
-</details>
+
 
