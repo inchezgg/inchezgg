@@ -32,7 +32,7 @@
   <p>
    <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Davidshevnya&show_icons=true&theme=dark" />
    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidshevnya&layout=compact&theme=dark" />  
-    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://streak-stats.demolab.com/?user=davidshevnya&theme=dark" />
+    <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://nirzak-streak-stats.vercel.app?user=davidshevnya&theme=dark" />
    <br>
   </p>
 
