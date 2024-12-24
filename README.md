@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, I'm David
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science teenager from Ukraine <img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ukraine-flag-icon.svg"</img></h3>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=3000&pause=100&color=6EF7DA&center=true&random=false&width=435&height=70&lines=Hi%2C++I'm+David;Python+developer)](https://git.io/typing-svg)
+</div>
+
 
 ### Languages and Technologies:
 
