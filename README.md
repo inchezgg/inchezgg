@@ -1,4 +1,5 @@
 <div align="center">
+
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=3000&pause=100&color=A6AEBF&center=true&random=false&width=435&height=70&lines=Hi%2C++I'm+David;Python+developer)](https://git.io/typing-svg)
 </div>
