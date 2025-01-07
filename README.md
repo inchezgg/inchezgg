@@ -13,7 +13,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=6CBEEA)](https://www.postgresql.org/)
 
-### Tools
+### Tools:
 [![VS code](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)](https://code.visualstudio.com/)
 [![NVim](https://img.shields.io/badge/-NVIM-090909?style=for-the-badge&logo=neovim)](https://neovim.io)
 ![ARCH](https://img.shields.io/badge/-ARCH-090909?style=for-the-badge&logo=archlinux)
